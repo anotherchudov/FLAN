@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='example',
+    name='flan',
     version='0.1.0',
-    packages=find_packages(include=['exampleproject', 'exampleproject.*'])
+    packages=find_packages(include=['flan', 'flan.*'])
 )
